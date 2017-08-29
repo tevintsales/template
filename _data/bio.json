@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tevin Sales",
     "label": "Student",
-    "picture": "https://tevintsales.github.io/images/profilepic.jpeg",
+    "picture": "https://tevintsales.github.io/images/profilepic.jpg",
     "email": "molly@hawaii.edu",
     "phone": "808-754-4535",
     "website": "https://tevintsales.github.io",
@@ -28,7 +28,13 @@
     ]
   },
   "interests": [
-
+    {
+     "name: internet and things",
+      "keywords":[
+        "Software engineering",
+        "Game development"
+        ]
+    }
   ],
   "skills": [
     {
