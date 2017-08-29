@@ -2,8 +2,8 @@
   "basics": {
     "name": "Tevin Sales",
     "label": "Student",
-    "picture": "https://tevintsales.github.io/images/profilepic.jpg",
-    "email": "molly@hawaii.edu",
+    "picture": "https://tevintsales.github.io/images/profilepic.png",
+    "email": "salest@hawaii.edu",
     "phone": "808-754-4535",
     "website": "https://tevintsales.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
@@ -28,13 +28,18 @@
     ]
   },
   "interests": [
-    {
-     "name: internet and things",
-      "keywords":[
-        "Software engineering",
-        "Game development"
-        ]
-    }
+     {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Game Development",
+      "keywords": [
+        "Unity",
+        "Game Maker Studio"
+      ]
+    },
   ],
   "skills": [
     {
