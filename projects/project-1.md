@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: 2D Platformer
 permalink: projects/micromouse
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Game Development
+  - Gamemaker Studio
+summary: A 2D platformer game created in Gamemaker Studio.
 ---
 
 <div class="ui small rounded images">
