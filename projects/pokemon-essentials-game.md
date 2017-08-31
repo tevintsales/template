@@ -14,7 +14,7 @@ summary: A Pokemon game created for pure education purposes.
 
 
 
-Source: <a href="https://github.com/jogarces/ics-pokemon-essentials-game"><i class="large github icon "></i>tevintsales/pokemon-essentials-game</a>
+Source: <a href="https://github.com/tevintsales/pokemon-essentials-game"><i class="large github icon "></i>tevintsales/pokemon-essentials-game</a>
 
 This is a work in progress Pokemon game made in RPG Maker XP using the Pokemon Essentials add-on. All of the resources for the project such as scripts, audio, and graphics are taken from outside resources and I will specify where the credit is due once the game is finished.
 
