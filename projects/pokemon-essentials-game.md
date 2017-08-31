@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/pokeball.png
 title: Pokemon Esssentials Project
 permalink: projects/cotton
 date: 2017
