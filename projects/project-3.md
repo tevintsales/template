@@ -2,59 +2,27 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Pokemon Esssentials Project
 permalink: projects/cotton
-date: 2014
+date: 2017
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - RPG Maker XP
+  - Pokemon Essentials
+  - Ruby Game Scripting System
+summary: A Pokemon game created for pure education purposes.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
+This is a work in progress Pokemon game made in RPG Maker XP using the Pokemon Essentials add-on. All of the resources for the project such as scripts, audio, and graphics are taken from outside resources and I will specify where the credit is due once the game is finished.
+
+The work I have done includes:
+- Finding files graphics online and slightly editing them using GIMP.
+- Using GIMP to create tilesets and animations to fit the RPG Maker XP style. 
+- Alterations of pre-existing Ruby scripts found online to tailor it to my needs.
+- Create game logic and loops that consists of story telling and events.
+
+As stated earlier, this project is for purely educational purposes so to learn more about game development using different game engines. So far I have learned how to setup game events due to player choice and results. I also learned how to properly resize, crop, and recolor sprites so that it fits a specific style. There are many different aspects that go into game development and this project is helping me develop an effective workflow for managing all the resources that I need to use.
