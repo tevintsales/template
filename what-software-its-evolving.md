@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Game Development The Game
+title: What! Software..it's evolving!
 date: 2017-08-30
 labels:
-  - Game Development
+  - Software Engineering
 ---
 
-  All of my life I've always enjoyed the thrill of playing video games. They can tell you heart warming stories or they can take you on adventures to various different universes. They allow you to step in the shoes of a princess saving warrior, an italian plumber, or a kid about to venture off into the world with amazing pets by your side. People all around the world enjoy video games and the market for them has never been greater. So, after a while of reading a lot of articles about game development and the itch to create my own video game growing stronger I decided to put my foot in the door and just create something.
+  Technology is alive. It is a forever growing beast that we need to be able to tame and use to our advantage.
 
 ## Be me, the level one character...
   Like my favorite Pokemon trainer Red, all I could say was '...'. I wanted to create the game of my dreams and have eveyone play it, but "Game Development The Game" isn't that simple. I thought I could get by as just a programmer but I was wrong. Game development isn't only about being a decent programmer. Games consist of artwork, music, storytelling, human-interface interactions, and so much more. I couldn't just put all of my skill points into coding. I had to branch out and learn more.
