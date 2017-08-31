@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: What! Software..it's evolving!
+title: The Warriors Known as Software Engineers
 date: 2017-08-30
 labels:
   - Software Engineering
 ---
 
-  Technology is alive. It is a forever growing beast that we need to be able to tame and use to our advantage.
+  Technology is alive. It is a forever growing beast that we need to be able to tame and use to our advantage. It is up to the Software Engineers to battle the beast and create user experiences for the common people. 
 
-## Be me, the level one character...
-  Like my favorite Pokemon trainer Red, all I could say was '...'. I wanted to create the game of my dreams and have eveyone play it, but "Game Development The Game" isn't that simple. I thought I could get by as just a programmer but I was wrong. Game development isn't only about being a decent programmer. Games consist of artwork, music, storytelling, human-interface interactions, and so much more. I couldn't just put all of my skill points into coding. I had to branch out and learn more.
+## Software in the world
+  Whether you realize it or not, software is present in almost everything in the world. It could be a part of an actual computer or manufactured by the machinery that utilizes it.
 
 ## Slowly leveling up
   Instead of just giving up I decided to take it slowly and start smaller. I followed many only tutorials to learn different game engines. I practiced making music using various programs. I tried my hand at doing 2D sprite artwork. 
