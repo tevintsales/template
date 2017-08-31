@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/unity.png
 title: Menu System for Unity
 permalink: projects/vacay
 date: 2017
@@ -11,7 +11,7 @@ labels:
 summary: A menu system for mobile games created in Unity. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Source: 
 
 This package is an export of a project I created in the Unity Game engine. It is configured for most modern smartphones on the Android OS.
 
