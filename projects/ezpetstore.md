@@ -11,7 +11,7 @@ labels:
 summary: An online petstore site created on WordPress.
 ---
 
-<img class="" src="../images/ezpetstore.png">
+<img src="../images/ezpetstore.png">
 
   This is a website that I helped a friend set up on his WordPress. The website is a pet food and toy store that takes its products from a 3rd party seller. The seller has a csv file that includes all the necessary info to get the products to display on WordPress.
 
