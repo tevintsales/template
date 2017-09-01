@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Warriors Known as Software Engineers
+title: The Warriors known as Software Engineers
 date: 2017-08-30
 labels:
   - Software Engineering
@@ -10,12 +10,11 @@ labels:
   Technology is alive. It is a forever growing beast that we need to be able to tame and use to our advantage. It is up to the Software Engineers to battle the beast and create user experiences for the common people. 
 
 ## Software in the world
-  Whether you realize it or not, software is present in almost everything in the world. It could be a part of an actual computer or manufactured by the machinery that utilizes it.
+  Whether you realize it or not, software is present in almost everything in the world. It could be a part of an actual computer or manufactured by the machinery that utilizes it. Software makes it so we can do even more with less effort. It can make ridiculously hard problems be done in an instant. It be comes a challenge between the engineers and the technology and I want to be a part of it.
 
-## Slowly leveling up
-  Instead of just giving up I decided to take it slowly and start smaller. I followed many only tutorials to learn different game engines. I practiced making music using various programs. I tried my hand at doing 2D sprite artwork. 
+## The present
+  At the moment my knowledge of actual software engineering is very slim. Yeah I've coded a few homework assignments that allowed me recursively find the greatest common factor of two digits but it wasn't really anything great in the grand scheme of things. I've also started getting into game software development a couple of years ago but I'm still at a very beginner level. To summarize it up, I'm still new to the world of software engineering.
   
->After a couple years of keeping at it I still haven't released an actual game and I'm fine with that.
-
-I found that rushing won't allow me to make games that I'd have fun playing. If I wouldn't have fun playing it why bother creating it?
-To those who want to get into game development my best advice is to take your time and make smaller scale games. From those small games learn, grow, and use the experiences from those to make an even better game next time. 
+  ## Fighting On
+    The software engineer battle isn't fought solo. It requires the aid of many other friends to create something really great. Up until now I've really only coded and worked on projects completely solo. I never really asked for others opinions or had help in fields that weren't my forte. Working forward I hope to work with many people to develop the communication and team work skills to create something amazing. Coding is something you can get good at with practice but developing skills to become a great team member for any development team can only be achieved with real life experiences.
+  
