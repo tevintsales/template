@@ -6,7 +6,7 @@ date: 2017-08-30
 labels:
   - Software Engineering
 ---
-<img class="ui medium left floated image" src="../images/software.png">
+<img class="ui medium left floated image" src="../images/software.jpg">
   Technology is alive. It is a forever growing beast that we need to be able to tame and use to our advantage. It is up to the Software Engineers to battle the beast and create user experiences for the common people. 
 
 ## Software in the world
