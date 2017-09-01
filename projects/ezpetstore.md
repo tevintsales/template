@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pet.jpg
 title: ezPetStore
-permalink: projects/ezpetstore.md
+permalink: projects/ezpetstore
 date: 2017
 labels:
   - Web Development
