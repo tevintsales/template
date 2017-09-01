@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pokeball.png
 title: Pokemon Esssentials Project
-permalink: projects/cotton
+permalink: projects/pokemon-essentials-game
 date: 2017
 labels:
   - RPG Maker XP
