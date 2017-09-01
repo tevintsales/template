@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/unity.png
 title: Menu System for Unity
-permalink: projects/vacay
+permalink: projects/unity-menu-system
 date: 2017
 labels:
   - Unity
