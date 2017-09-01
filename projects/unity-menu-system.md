@@ -10,8 +10,9 @@ labels:
   - C#
 summary: A menu system for mobile games created in Unity. 
 ---
-
--<img class="" src="../images/menupic.png">
+<div>
+  <img class="" src="../images/menupic.png">
+</div>
 
 Source: <a href="https://github.com/tevintsales/MyUnityGame"><i class="large github icon "></i>tevintsales/MyUnityGame</a>
 
