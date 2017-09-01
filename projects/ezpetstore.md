@@ -4,7 +4,7 @@ type: project
 image: images/pet.jpg
 title: ezPetStore
 permalink: projects/ezpetstore.md
-date: 2015
+date: 2017
 labels:
   - Web Development
   - WordPress
