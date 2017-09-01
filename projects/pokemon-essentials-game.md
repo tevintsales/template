@@ -11,8 +11,9 @@ labels:
   - Ruby Game Scripting System
 summary: A Pokemon game created for pure education purposes.
 ---
-
-<img class="ui medium left floated image" src="../images/pokemonessentials.png">
+<div>
+  <img class="ui medium left floated image" src="../images/pokemonessentials.png">
+</div>
 
 Source: <a href="https://github.com/tevintsales/pokemon-essentials-game"><i class="large github icon "></i>tevintsales/pokemon-essentials-game</a>
 
