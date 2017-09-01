@@ -11,6 +11,8 @@ labels:
 summary: A menu system for mobile games created in Unity. 
 ---
 
+-<img class="ui medium left floated image" src="../images/menupic.png">
+
 Source: <a href="https://github.com/tevintsales/MyUnityGame"><i class="large github icon "></i>tevintsales/MyUnityGame</a>
 
 This package is an export of a project I created in the Unity Game engine. It is configured for most modern smartphones on the Android OS.
