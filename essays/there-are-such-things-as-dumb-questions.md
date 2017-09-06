@@ -16,7 +16,7 @@ There are many reasons why things don't always go the way they seem, this is esp
 People will only help those who help themselves. This is true in almost any aspect of the world. If you don't take the time to even attempt to solve your problem then no one will want to use their time either. From my own experiences I've learned that if your problem isn't something extremely specific odds are that there are others that have had your problem as well. You can use those previous solutions on your problem and see the results. If you cannot figure it out after actually putting in effort then it's time to reach out.
 
 # The dumb question.
-People say that there is no such thing as a dumb question. That is false. A good example of a dumb question would be <a href="https://stackoverflow.com/questions/46084911/what-is-the-working-rule-of-this-program-explanation">this</a>. As you can see the person in question had put in no effort to actually even figure out what his problem is therefore he/she had received zero answers. 
+People say that there is no such thing as a dumb question. That is false. A good example of a dumb question would be <a href="https://stackoverflow.com/questions/46084911/what-is-the-working-rule-of-this-program-explanation">this</a>. As you can see the person in question had put in no effort to actually even figure out what his problem is therefore he/she had received no helpful answers. 
 
 # The Smart Way!
 <a href="https://stackoverflow.com/questions/45911954/scala-registry-design-pattern-or-similar">Asking the smart way!</a>
