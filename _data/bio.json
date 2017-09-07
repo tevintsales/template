@@ -103,6 +103,18 @@
         "Assist any users with hardware or software.",
 	"Create and update support tickets online."
       ]
+    },
+{
+      "company": "Zippy's Restaurant",
+      "position": "Fast Food Cook",
+      "website": "http://zippys.com/",
+      "startDate": "2013-07-01",
+      "endDate": "2014",
+      "summary": "Chef for fast food side of Zippy's Restuarants in Hawaii.",
+      "highlights": [
+        "Able to work under high pressure situations during a rush hour.",
+	"Work together as a team with other staff members to provide service."
+      ]
     }
   ],
   "volunteer": [
