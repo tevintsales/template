@@ -24,4 +24,6 @@ The user is also able to change the target currency via slider and that data wil
 This project was very valuable as it taught me a lot about API calls and parsing data from JSON objects.
 Because of this knowledge I will be able to create a wider variety of apps that allow me to get data from the internet and use it accordingly.
 
-
+<div>
+  <img class="ui medium left floated image" src="../images/bitcoinapp.png">
+</div>
