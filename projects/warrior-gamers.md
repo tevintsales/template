@@ -12,7 +12,7 @@ labels:
 summary: Final project made with a team of four in ICS 314.
 ---
 <div>
-  <img class="ui medium left floated image" src="../images/search.png">
+  <img class="ui medium left floated image" src="../images/landing_page.png">
 </div>
 
 Source: <a href="https://314gb.github.io/">Warrior Gamers</a>
@@ -38,5 +38,5 @@ of software engineering looks like. Even if it may not be possible at the moment
 become a software engineer some day and will continue developing my skills until that time comes.
 
 <div>
-  <img class="ui medium left floated image" src="../images/landing_page.png">
+  <img class="ui medium left floated image" src="../images/search.png">
 </div>
