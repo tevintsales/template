@@ -15,7 +15,7 @@ summary: Final project made with a team of four in ICS 314.
   <img class="ui medium left floated image" src="../images/search.png">
 </div>
 
-Source: <a href="https://314gb.github.io/"><i class="large github icon "></i>Warrior Gamers</a>
+Source: <a href="https://314gb.github.io/">Warrior Gamers</a>
 
 Video games are a huge part of modern day life, especially when majoring in computer science. There are hundreds
 of multiplayer games that people play by themselves because they have no one to play with. Our web application,
