@@ -9,14 +9,13 @@ labels:
   - JavaScript
   - Meteor
   - Semantic UI
-summary: Final project made with a team of four in ICS 314. This project allows like-minded
-gamers to find new friends/students at the University of Hawaii who they can play games with.
+summary: Final project made with a team of four in ICS 314.
 ---
 <div>
   <img class="ui medium left floated image" src="../images/search.png">
 </div>
 
-Source: <a href="https://314gb.github.io/"><i class="large github icon "></i>tevintsales/WarriorGamers</a>
+Source: <a href="https://314gb.github.io/"><i class="large github icon "></i>Warrior Gamers</a>
 
 Video games are a huge part of modern day life, especially when majoring in computer science. There are hundreds
 of multiplayer games that people play by themselves because they have no one to play with. Our web application,
