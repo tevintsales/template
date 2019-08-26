@@ -6,10 +6,10 @@
     "email": "salest@hawaii.edu",
     "phone": "808-754-4535",
     "website": "https://tevintsales.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in December, 2017.",
+    "summary": "Hello! I am Tevin Sales and I grew up on the island of Oahu in Hawaii. I have graduated from the University of Hawaii at Manoa with a Bachelor's degree in Information and Computer Science. Throughout my education career I've made various programs using many different languages including Java, JavaScript, C++, and even Lisp. Graduated in December 2017 and look forward to learning more about technologies in the future.My main interests in programming involve mobile development, particularly Android development, as well as game development using the Unity game engine. When I'm not coding, I enjoy watching soccer or playing video games. If you have any questions feel free to message me at anytime! ",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96706",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -60,6 +60,7 @@
         "HTML",
         "Javascript",
         "C#",
+	"Java",	      
       ]
     },
     {
@@ -75,9 +76,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2017)",
+      "area": "Computer Science",
       "studyType": "B.A.",
-      "startDate": "2014-08-20",
+      "startDate": "2017-12-15",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -91,11 +92,31 @@
       "endDate": "2016-08-07",
       "gpa": "",
       "courses": [
+	      "AI Programming",
+	      "Machine-Lvl & Systems Programming",
+	      "Web Development",
+	      "Data Storage and Retrieval",
+	      "Operating Systems",
+	      "Algorithms",
       ]
     }
 	
   ],
   "work": [
+	{
+      "company": "Microsoft",
+      "position": "Support Engineer",
+      "website": "",
+      "startDate": "2018-07",
+      "endDate": "2019-08",
+      "summary": "Provides technical assistance and advisory for clients within Microsoft Azure's cloud infrastructure.",
+      "highlights": [
+        "Work with product team to provide information when bugs with products are found.",
+        "Helped solved network connectivity issues between local networks and Azure networks for application connectivity.",
+	"Worked with many Microsofts cloud products such as Application Gateways, VPN Gateways, Traffic Managers, Load Balancers, Azure Firewall",
+	"Networking Fundamentals (HTTP, TCP, IPSec, DNS, BGP, etc.)",
+      ]
+    }
     {
       "company": "UH Manoa Information Technology Services",
       "position": "Information Technology Student Assistant",
