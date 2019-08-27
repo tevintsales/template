@@ -26,8 +26,11 @@ This totals to roughly 75 percent of the code.
 Extra Credits hosted it's 5th Game Jam and I gathered a small team of three to create a game.
 
 This a a 2D Puzzle RPG inspired by old RPG titles.
+
 The premise of the story is that you are a mage that got trapped in a magic book that you came across while browsing the archives. The title of this book is none other than the "Book of Chickens".
+
 Throughout this game, you will need to figure out how to solve the mysteries of the pages throughout this book. However, there is little to no directions on how to go about doing this.
+
 There are various secrets hidden throughout the game, and there is also a secret room to enter for those who are willing to look for the Easter Eggs hidden throughout the game. 
 
 <div>
