@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "tevinsales",
         "url": "https://www.linkedin.com/in/tevin-sales-08bb51135/"
-      },
+      }
     ]
   },
   "interests": [
@@ -50,7 +50,7 @@
         "Game Maker Studio",
 		"RPG Maker XP"
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -73,7 +73,7 @@
         "Windwos 10",
         "Git/GitHub",
 	"Visual Studio",
-	"Linux",
+	"Linux"
       ]
     }
   ],
@@ -91,7 +91,7 @@
 	      "Web Development",
 	      "Data Storage and Retrieval",
 	      "Operating Systems",
-	      "Algorithms",
+	      "Algorithms"
       ]
     },
 	{
@@ -170,7 +170,7 @@
       "date": "",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Fall 2015, Fall 2016, Earned a semester grade point average of 3.5 or higher."
-    },
+    }
  
   ],
   "references": [
