@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tevin Sales",
-    "label": "Student",
+    "label": "Development Specialist at Hawaiian Electric Company",
     "picture": "https://tevintsales.github.io/images/profilepic.png",
     "email": "salest@hawaii.edu",
     "phone": "808-754-4535",
     "website": "https://tevintsales.github.io",
-    "summary": "Hello! I am Tevin Sales and I grew up on the island of Oahu in Hawaii. I have graduated from the University of Hawaii at Manoa with a Bachelor's degree in Information and Computer Science. Throughout my education career I've made various programs using many different languages including Java, JavaScript, C++, and even Lisp. Graduated in December 2017 and look forward to learning more about technologies in the future.My main interests in programming involve mobile development, particularly Android development, as well as game development using the Unity game engine. When I'm not coding, I enjoy watching soccer or playing video games. If you have any questions feel free to message me at anytime!",
+    "summary": "Hello! I am Tevin Sales and I grew up on the island of Oahu in Hawaii. I have graduated from the University of Hawaii at Manoa with a Bachelor's degree in Information and Computer Science. Throughout my career I've made various web applications and automation scripts using many different languages including Java, C#, ASP.NET, Python and much more. My main interests in programming involve sofware development and game development. When I'm not coding, I enjoy watching soccer or playing video games. If you have any questions feel free to message me at anytime!",
     "location": {
       "address": "",
       "postalCode": "96706",
@@ -57,10 +57,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "HTML",
+        "Java",
         "Javascript",
         "C#",
-	"Java"	      
+	"Python",
+	".NET Core",
+	"ASP.NET"
       ]
     },
     {
@@ -70,6 +72,8 @@
         "Windows 7",
         "Windwos 10",
         "Git/GitHub",
+	"Visual Studio",
+	"Linux",
       ]
     }
   ],
@@ -103,6 +107,22 @@
 	
   ],
   "work": [
+	  
+	  {
+      "company": "Hawaiian Electric Company",
+      "position": "Development Specialist",
+      "website": "",
+      "startDate": "2020-01",
+      "endDate": "Present",
+      "summary": "Develops for and support tech frameworks of Hawaiian Electric's various projects involving geographical databases and web applications.",
+      "highlights": [
+        "Developed automation scripts for geodatabase processes and web applications using Python and PowerShell.",
+        "Designing and coding of CRUD web applications using ASP.NET, C#, SQL, Visual Studio.",
+	"Performed functional, non-functional, regression and performance tests for updated systems.",
+	"Modified existing software systems to enhance performance and add new features."
+      ]
+    },
+	  
 	{
       "company": "Microsoft",
       "position": "Support Engineer",
@@ -117,6 +137,7 @@
 	"Networking Fundamentals (HTTP, TCP, IPSec, DNS, BGP, etc.)"
       ]
     },
+	  
     {
       "company": "UH Manoa Information Technology Services",
       "position": "Information Technology Student Assistant",
